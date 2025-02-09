@@ -26,7 +26,7 @@ Frontend: HTML, CSS, JavaScript
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/MyPortfolio.git
+git clone https://github.com/AbhayPratapSingh23/MyPortfolio.git
 
 2. Open index.html in a browser.
 
