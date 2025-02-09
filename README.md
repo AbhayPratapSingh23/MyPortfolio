@@ -9,6 +9,7 @@ A modern and professional portfolio website built using HTML, CSS, and JavaScrip
 ✅ Interactive sections for projects and skills
 ✅ Contact form for easy communication
 
+
 🔧 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
@@ -16,7 +17,10 @@ Frontend: HTML, CSS, JavaScript
 
 🚀 Live Demo
 
-[Add link here if hosted]
+[https://sweet-duckanoo-7638c5.netlify.app/]
+
+
+
 
 📂 Installation & Usage
 
@@ -24,8 +28,8 @@ Frontend: HTML, CSS, JavaScript
 
 git clone https://github.com/yourusername/MyPortfolio.git
 
-
 2. Open index.html in a browser.
+
 
 
 
@@ -39,7 +43,6 @@ For any suggestions or collaborations, feel free to reach out!
 How to Add This to Your Repository?
 
 1. Go to your GitHub repository.
-
 
 2. Click "Add file" → "Create new file".
 
