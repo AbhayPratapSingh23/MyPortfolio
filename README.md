@@ -15,18 +15,10 @@ A modern and professional portfolio website built using HTML, CSS, and JavaScrip
 Frontend: HTML, CSS, JavaScript
 
 
-🚀 Live Demo
-
-[https://sweet-duckanoo-7638c5.netlify.app/]
-
-
-
 
 📂 Installation & Usage
 
-1. Clone the repository:
-
-git clone https://github.com/AbhayPratapSingh23/MyPortfolio.git
+1. Clone the repository:  git clone https://github.com/AbhayPratapSingh23/MyPortfolio.git
 
 2. Open index.html in a browser.
 
